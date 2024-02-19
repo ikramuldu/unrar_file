@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.syedecryptr/unrar_file"
+    namespace "com.syedecryptr.unrar_file"
     compileSdkVersion 29
 
     compileOptions {
